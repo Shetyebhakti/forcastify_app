@@ -1,1 +1,9 @@
- pandas numpy flask flask_login flask_wtf flask_sqlalchemy scikit-learn matplotlib
+pandas
+numpy
+flask
+flask_login
+flask_wtf
+flask_sqlalchemy
+scikit-learn
+matplotlib
+gunicorn
